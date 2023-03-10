@@ -1,3 +1,5 @@
+# Gym profile websit
+This website is a gym profile website built with ReactJS, featuring a beautiful and clean design. It incorporates the EmailJS library to enable users to send emails directly from the website, as well as the Framer Motion library for visually engaging effects. The website also utilizes the React CountUp library to display cool digit animations that increase as users interact with the site. Overall, the website provides an immersive and engaging user experience for gym-goers and fitness enthusiasts.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
